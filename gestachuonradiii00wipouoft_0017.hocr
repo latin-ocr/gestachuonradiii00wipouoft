@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./gestachuonradiii00wipouoft_0017.png"; bbox 0 0 1864 3250; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 1864 3250">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 1864 3250">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 1864 3250; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 1864 3250; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 469 1100 1542 1339">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 374 1100 1542 1339">
+     <span class='ocr_line' id='line_1_2' title="bbox 469 1100 1542 1218; baseline -0.003 -40.244"><span class='ocrx_word' id='word_1_2' title='bbox 469 1107 478 1178; x_wconf 61' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_3' title='bbox 655 1100 942 1184; x_wconf 81' lang='lat' dir='ltr'><strong>GESTA</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1540 1216 1542 1218; x_wconf 8' lang='grc' dir='ltr'>Ι</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 503 1231 1510 1339; baseline 0.006 -42.233"><span class='ocrx_word' id='word_1_5' title='bbox 503 1231 514 1276; x_wconf 83' lang='lat'>.·</span> <span class='ocrx_word' id='word_1_6' title='bbox 567 1236 643 1303; x_wconf 82' lang='grc' dir='ltr'>ιΙ</span> <span class='ocrx_word' id='word_1_7' title='bbox 693 1237 782 1305; x_wconf 89' lang='lat'>11.</span> <span class='ocrx_word' id='word_1_8' title='bbox 849 1238 1510 1339; x_wconf 35' lang='grc' dir='ltr'>ΙΜΡΕΒΑΤΟΒΙΒΉ,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1740 2802 1864 3152">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1740 2802 1864 3152">
+     <span class='ocr_line' id='line_1_4' title="bbox 1740 2802 1864 3152; baseline 0 98"><span class='ocrx_word' id='word_1_9' title='bbox 1740 2802 1864 3152; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
